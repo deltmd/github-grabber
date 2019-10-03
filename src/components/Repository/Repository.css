@@ -1,0 +1,35 @@
+.repo-wraper {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: thin;
+    padding: 20px 10px 20px 0;
+    margin: 10px 0px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.repo-wraper:hover {
+    border-color: darkorange;
+    background-color: #c7c7c7;
+    transform: scale(1.05);
+}
+
+.language-indicator {
+    margin-right: 5px;
+    padding: 5px;
+    background-color: purple;
+}
+
+.language {
+    margin-right: 10px;
+}
+
+.badge-info>div {
+    margin-bottom: 15px;
+
+}
+
+.date {
+    font-weight: bold;
+}

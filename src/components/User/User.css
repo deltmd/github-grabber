@@ -1,0 +1,30 @@
+/*.user-card-wrapper {*/
+/*width: 90px;*/
+/*}*/
+
+.user-detected-detail {
+    margin-top: 40px;
+}
+
+/*.repo-wraper {*/
+/*background-color: darkgray;*/
+/*margin: 10px;*/
+/*}*/
+
+.follow-wrapper {
+    padding: 20px;
+}
+
+.org-item {
+    margin-bottom: 50px;
+    border-radius: 0px;
+    /*background-color: #c7c7c7;*/
+    padding: 10px;
+    /*border-radius: 25px;*/
+    border: none;
+}
+.repos-list-wrapper{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
